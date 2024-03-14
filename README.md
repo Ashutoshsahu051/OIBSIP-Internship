@@ -18,4 +18,16 @@ Key Takeaways:
 
 🌟 Ready to tackle more advanced web projects!
 
-=> Here you can check my projects= https://www.linkedin.com/posts/ashutoshsahu7_webdevelopment-html-css-activity-7173744429172731905-7nTy?utm_source=share&utm_medium=member_desktop
+=> Here you can check my projects - https://www.linkedin.com/posts/ashutoshsahu7_webdevelopment-html-css-activity-7173744429172731905-7nTy?utm_source=share&utm_medium=member_desktop
+
+
+Task-3 = To-Do List Web App
+
+*) ToDo List Web App using HTML, CSS, and JavaScript! 🖥️💡
+
+Key Takeaway:
+
+
+Crafted a fully functional ToDo List Web App, seamlessly integrating HTML, CSS, and JavaScript for a polished user experience.
+
+=> Here you can check my projects - 
