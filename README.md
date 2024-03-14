@@ -30,4 +30,4 @@ Key Takeaway:
 
 Crafted a fully functional ToDo List Web App, seamlessly integrating HTML, CSS, and JavaScript for a polished user experience.
 
-=> Here you can check my projects - 
+=> Here you can check my projects - https://www.linkedin.com/posts/ashutoshsahu7_webdevelopment-html-css-activity-7174112620965224448-h63S?utm_source=share&utm_medium=member_desktop
